@@ -217,11 +217,32 @@ body {
     color:#fff;
 }
 
+.section-title-2 {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 30px; 
+    font-weight:700;
+    color:#fff;
+}
+
+
+.section-title-3 {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 27px; 
+    font-weight:700;
+    color:#fff;
+}
+
 .section-subtitle {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 16px;
     font-weight:300;
     color:#9c9c9c;
+}
+.section-subtitle-2 {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 16px;
+    font-weight: bold;
+    color:#0099bb;
 }
 
 /* Testimonial */
